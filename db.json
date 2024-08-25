@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "title": "11",
+      "price": "11",
+      "desc": "11",
+      "status": "Draft",
+      "isSale": true,
+      "id": 1
+    },
+    {
+      "title": "121",
+      "price": "121",
+      "desc": "121",
+      "status": "Draft",
+      "isSale": true,
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "email": "hunghpph43229@fpt.edu.vn",
+      "password": "$2a$10$C1XSNYk5lmuGsmsTrZw2MOvp/2/qiXadK0n0pf/QEyplRh6WAmwGS",
+      "id": 1
+    },
+    {
+      "email": "hung@gmail.com",
+      "password": "$2a$10$TtSEaWVzNtKA0vdtPEQyge.JTSeaVpNbA6eA0xCVdqz8Z03/xrhia",
+      "id": 2
+    }
+  ]
+}
